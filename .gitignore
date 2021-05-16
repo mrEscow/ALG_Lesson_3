@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs
+/Debug
+/x64/Debug
+/ALG_Lesson_3.sln
+/ALG_Lesson_3.vcxproj
+/ALG_Lesson_3.vcxproj.filters
+/ALG_Lesson_3.vcxproj.user
